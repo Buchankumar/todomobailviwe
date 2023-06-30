@@ -223,11 +223,6 @@ h5 a {
     .main {
         padding: 25px 0px;
     }
-
-    .newtask {
-        text-align: center;
-    }
-
     .plusSign {
         border-radius: 50%;
         color: var(--white);
